@@ -1,0 +1,1 @@
+Quiz basico desenvolvido com Html, Javascript e css. Um arquivo .js contem as questões com as respostas e perguntas renderizadas, somando quantas corretas foram acertas e retornando porcentagem de acerto.
